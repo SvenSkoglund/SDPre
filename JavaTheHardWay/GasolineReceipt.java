@@ -11,6 +11,6 @@ public class GasolineReceipt {
     System.out.println("|                       |" );
     System.out.println("| Fuel total: $ 22.71   |" );
     System.out.println("|                       |" );
-    System.out.println( "+----------------------+" );
+    System.out.println("+-----------------------+" );
   }
 }
